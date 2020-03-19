@@ -17,7 +17,7 @@ $smarty->assign('PAG_MINHACONTA', Rotas::pag_MinhaConta());
 $smarty->assign('TITULO_SITE', Config::SITE_NOME);
 
 
-
+//Fiz uma alteração para o git hub
 
 $smarty->display('index.tpl');
  ?>
